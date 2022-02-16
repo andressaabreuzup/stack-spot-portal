@@ -11,4 +11,7 @@ description: |
 about: about.md
 useCase: useCase.md
 #children é apenas para testLocal "Provisorio"
-children: ["sqs-producer-app-kt-plugin", "sqs-consumer-app-kt-plugin", "kotlin-template"]
+children: ["sqs-producer-app-kt-plugin", "sqs-consumer-app-kt-plugin", "kotlin-template"]  
+compatibility: [".Net 2.x.x.x", ".Net 2.x.x.x"]
+command: "stak import stack"
+commandDescription: "Loren ipsun"
